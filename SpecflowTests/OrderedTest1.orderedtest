@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="c:\users\achakote\source\internship task\specflowtests-base\specflowtests-base\specflowtests\specflowtests\orderedtest1.orderedtest" id="f1139c21-d2e5-4748-9055-70dd04838b15" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="460117a7-0f6c-4677-d13c-e430e60e1248" name="CheckIfUserCouldAbleToAddALanguage_A" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="fb636729-4346-c382-e127-83d1ef06b7f2" name="CheckIfUserCouldAbleToAddALanguage_B" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="be40a283-b4d5-68e3-df1b-07ec88229494" name="CheckIfUserCouldAbleToAddALanguage_C" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="02e2881e-e60f-c4ca-e14e-df8095bec42f" name="AddDuplicateLanguage" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="5d247e60-4a38-d605-183f-5490c4088323" name="UpdateLanguage" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="82a7de0c-dc78-ddc2-00dc-84e9515acf8d" name="CheckIfUserCouldAbleToAddALanguage_D" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="5bf633d9-8f91-8872-b38d-0df3202b248d" name="ValidateIfMoreThan5ThLanguageGetAdded" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
